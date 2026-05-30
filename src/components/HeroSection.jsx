@@ -1,6 +1,6 @@
 
 import styleHero from '../sass/components/hero.module.scss'
-import heroImg from '../assets/icons/search.png'
+import heroImg from '../../public/assets/icons/search.png'
 import FilterImages from './FilterImages.jsx'
 
 export default function HeroSection(props){

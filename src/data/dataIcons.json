@@ -1,11 +1,11 @@
  [{ 
        
-            "menuBars": "/src/assets/icons/menu_bars.png",
-            "heart": "/src/assets/icons/heart.png",
-            "mail": "/src/assets/icons/mail.png",
-            "download": "/src/assets/icons/download.png",
-            "search": "/src/assets/icons/search.png",
-            "closeBars": "/src/assets/icons/close-navbar.png"
+            "menuBars": "/public/assets/icons/menu_bars.png",
+            "heart": "/public/assets/icons/heart.png",
+            "mail": "/public/assets/icons/mail.png",
+            "download": "/public/assets/icons/download.png",
+            "search": "/public/assets/icons/search.png",
+            "closeBars": "/public/assets/icons/close-navbar.png"
        
       
 }
