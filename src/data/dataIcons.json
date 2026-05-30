@@ -1,11 +1,11 @@
  [{ 
        
-            "menuBars": "/public/assets/icons/menu_bars.png",
-            "heart": "/public/assets/icons/heart.png",
-            "mail": "/public/assets/icons/mail.png",
-            "download": "/public/assets/icons/download.png",
-            "search": "/public/assets/icons/search.png",
-            "closeBars": "/public/assets/icons/close-navbar.png"
+            "menuBars": "/assets/icons/menu_bars.png",
+            "heart": "/assets/icons/heart.png",
+            "mail": "/assets/icons/mail.png",
+            "download": "/assets/icons/download.png",
+            "search": "/assets/icons/search.png",
+            "closeBars": "/assets/icons/close-navbar.png"
        
       
 }
