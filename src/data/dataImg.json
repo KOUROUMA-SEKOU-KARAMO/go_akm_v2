@@ -8,7 +8,7 @@
             "title": "group of bikes",
             "category": "transport",
             "name": "city-bike-01", 
-            "urlLarge": "./public/assets/imgs/categories/city/large/city-bike-01.jpg", 
+            "urlLarge": "/public/assets/imgs/categories/city/large/city-bike-01.jpg", 
             "urlMedium": "/public/assets/imgs/categories/city/medium/city-bike-01.jpg", 
             "urlSmall": "/public/assets/imgs/categories/city/small/city-bike-01.jpg",
             "al":"groupe of bikes parking behind to wall",
