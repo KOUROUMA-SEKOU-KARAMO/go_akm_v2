@@ -1,6 +1,6 @@
 import styleGalleryGrip from '../sass/components/gallerySection.module.scss'
 import dataImg from '../data/dataImg.json'
-import img1 from '../assets/imgs/photos/DSCF5235.JPG'
+import img1 from '../../public/assets/imgs/photos/DSCF5235.JPG'
 import CardPhoto from './CardPhoto'
 
 
